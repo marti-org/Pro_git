@@ -1,4 +1,4 @@
-//Naprosto funkcni program pro vyuku prace s gitem
+//Aby se vetve nehadali pisu novy prvni komentar
 
 //funkce pro vypocet cehokoliv
 int magic_box(int number)
@@ -16,6 +16,13 @@ int test_function(int x)
 int new_functon(int y)
 {
    return y*3;
+}
+
+
+//prava err functon
+int err_check(void)
+{
+   return EXIT_SUCCES;
 }
 
 int main(char *argv, int argc)
