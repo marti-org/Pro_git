@@ -20,7 +20,10 @@ int new_functon(int y)
 
 
 //prava err functon
-
+int err_check(void)
+{
+   return EXIT_SUCCES;
+}
 
 int main(char *argv, int argc)
 {
