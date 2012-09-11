@@ -18,6 +18,10 @@ int new_functon(int y)
    return y*3;
 }
 
+
+//prava err functon
+
+
 int main(char *argv, int argc)
 {
    return EXIT_SUCCES;
