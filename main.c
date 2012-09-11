@@ -9,7 +9,7 @@ int magic_box(int number)
 //test_funciton
 int test_function(int x)
 {
-   return x-1;
+   return x+1;
 }
 
 //dalsi_nova funkce
