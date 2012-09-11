@@ -1,4 +1,4 @@
-//Nefunkcni program pro vyuku prace s gitem
+//Temer funkcni program pro vyuku prace s gitem
 
 //funkce pro vypocet cehokoliv
 int magic_box(int number)
